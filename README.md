@@ -88,7 +88,7 @@ Figure 2 outlines the literature under intellectual merits. Figure 2 shows how I
 
 ### Explanation Figure
 
-![portfolio](https://github.com/SunYutongAmber/SunYutongAmber.github.io/blob/main/spotlight/Ridge%20Regression%20Predicted%20and%20True%20Value.png) 
+![SunYutongAmber.github.io](./spotlight/a.png) 
 
 Figure 3. The ROI time series data (source from [Kaggle dataset](https://www.kaggle.com/code/baotramduong/generate-nft-cryptopunks-with-dggan), created by [Plotly](https://plotly.com/python/time-series/))
 
