@@ -73,14 +73,14 @@ $$y=b_{0}+b_{1}*X_{female}+b_{2}*X_{light}+b_{3}*X_{medium}+b_{4}*X_{alboni}$$
 ## Spotlight
 
 ### Poster
-![Figure 1. Project Poster](https://github.com/SunYutongAmber/portfolio/blob/main/Final%20Project/Splotlight/Stats201%20Final%20Project%20poster.png)
+![SunYutongAmber.github.io](./spotlight/c.png) 
 Figure 1. The Project Poster (Created by [Canva](https://www.canva.com/design/DAFT52ikjIs/qxf0zRLnKI7RPB8R7W3j6w/edit))
 
 Figure 1 illustrates six sections of the research: Intruduction to the project background and motivation, research questions, data sources and methodology, intellectual merits, expected Results, and references.
 
 
 ### Literature Review
-![Figure 2. The literature of intellectual merits](https://github.com/SunYutongAmber/portfolio/blob/main/Final%20Project/Splotlight/Stats201%20Final%20Project%20Literature%20Flow%20chart.png)
+![SunYutongAmber.github.io](./spotlight/d.png) 
 Figure 2. The literature of intellectual merits (Created by [ProcessOn](https://www.processon.com/diagraming/63915c97e0b34d7ebd80b0f8))
 
 Figure 2 outlines the literature under intellectual merits. Figure 2 shows how I discuss the three lines of literature in aspects of the research question, methodology, and application scenario. The three pink boxes show the SoK/Survey papers for each line of literature. The five grey boxes are the most recent paper related to my resarch topic. And the three white boxes demonstrate what's this paper's unique contribution that differs from previous studies.
@@ -96,7 +96,7 @@ Figure 3 is the scatter plot of the Cryptopunks' return on investment (ROI) data
 
 
 ### Prediction Figure
-![Figure 4. The expected result of the predicted ROI and the true ROI](https://github.com/SunYutongAmber/portfolio/blob/main/Final%20Project/Splotlight/Ridge%20Regression%20Predicted%20and%20True%20Value.png)
+![SunYutongAmber.github.io](./spotlight/b.png) 
 
 Figure 4. The expected result of the predicted ROI and the true ROI (source from [Kaggle dataset](https://www.kaggle.com/code/baotramduong/generate-nft-cryptopunks-with-dggan), created by [sklearn](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.kernel_ridge))
 
@@ -104,7 +104,7 @@ Figure 4 is the histogram of Ridge Regression for Cryptopunks return on investme
 
 ## About the Author
 ### Headshot
-<img width="130" height="190" src="https://github.com/SunYutongAmber/Yutong-Sun/blob/main/img/WechatIMG2.jpeg"/>
+![SunYutongAmber.github.io](./spotlight/e.png) 
 
 ### Self-introduction
 
