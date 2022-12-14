@@ -88,7 +88,7 @@ Figure 2 outlines the literature under intellectual merits. Figure 2 shows how I
 
 ### Explanation Figure
 
-![Figure 3. The ROI time series data](https://github.com/SunYutongAmber/portfolio/blob/main/Final%20Project/Splotlight/Scatter%20Plot%20for%20ROI%20over%20time.png) 
+![Figure 3. The ROI time series data](./spotlight/Ridge Regression Predicted and True Value.png) 
 
 Figure 3. The ROI time series data (source from [Kaggle dataset](https://www.kaggle.com/code/baotramduong/generate-nft-cryptopunks-with-dggan), created by [Plotly](https://plotly.com/python/time-series/))
 
@@ -196,24 +196,3 @@ Zhang, Yufan, Zichao Chen, Luyao Zhang, and Xin Tong. 2022. “Visualizing Non-F
 @misc{title how to choice a good title?_2022, url={https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction}, journal={GitHub}, year={2022}, month={Nov} }
 ```
 
-140.82.113.3      github.com
-140.82.114.20     gist.github.com
- 
-151.101.184.133    assets-cdn.github.com
-151.101.184.133    raw.githubusercontent.com
-199.232.28.133     raw.githubusercontent.com 
-151.101.184.133    gist.githubusercontent.com
-151.101.184.133    cloud.githubusercontent.com
-151.101.184.133    camo.githubusercontent.com
-199.232.96.133     avatars.githubusercontent.com
-151.101.184.133    avatars0.githubusercontent.com
-199.232.68.133     avatars0.githubusercontent.com
-199.232.28.133     avatars0.githubusercontent.com 
-199.232.28.133     avatars1.githubusercontent.com
-151.101.184.133    avatars1.githubusercontent.com
-151.101.108.133    avatars1.githubusercontent.com
-151.101.184.133    avatars2.githubusercontent.com
-199.232.28.133     avatars2.githubusercontent.com
-151.101.184.133    avatars3.githubusercontent.com
-199.232.68.133     avatars3.githubusercontent.com
-151.101.184.133    avatars4.githubusercontent.com
