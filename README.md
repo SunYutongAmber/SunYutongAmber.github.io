@@ -80,7 +80,7 @@ Figure 1 illustrates six sections of the research: Intruduction to the project b
 
 
 ### Literature Review
-![Figure 2. The literature of intellectual merits](https://github.com/SunYutongAmber/portfolio/blob/main/Final%20Project/Splotlight/Stats201%20Final%20Project%20Literature%20Flow%20chart.png)
+![Figure 2. The literature of intellectual merits(https://github.com/SunYutongAmber/portfolio/blob/main/Final%20Project/Splotlight/Stats201%20Final%20Project%20Literature%20Flow%20chart.png)
 Figure 2. The literature of intellectual merits (Created by [ProcessOn](https://www.processon.com/diagraming/63915c97e0b34d7ebd80b0f8))
 
 Figure 2 outlines the literature under intellectual merits. Figure 2 shows how I discuss the three lines of literature in aspects of the research question, methodology, and application scenario. The three pink boxes show the SoK/Survey papers for each line of literature. The five grey boxes are the most recent paper related to my resarch topic. And the three white boxes demonstrate what's this paper's unique contribution that differs from previous studies.
